@@ -2,7 +2,9 @@
 - 👀 I’m interested in technology, programming, codes, Linux and Windows.
 - 🌱 I’m currently learning C#, Python and Linux.
 - ❤️ Music and Brasilian culture.
-- 📫 How to reach me: hbisetto@yahoo.com.br
+-  How to reach me:
+  📫 hbisetto@yahoo.com.br
+  LinkedIn: https://www.linkedin.com/in/henrique-bisetto-0b60292ba/
 
 <!---
 hbisetto/hbisetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
