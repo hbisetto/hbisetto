@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hbisetto, I'm 36 years old and I live in Araraquara (SP), Brasil. 
-- 👀 I’m interested in technology, programming, codes, Linux and Windows.
-- 🌱 I’m currently learning Python for Back-End.
+- 👀 I’m interested in OpenSource culture, Linux and Windows.
+- 🌱 I’m currently learning Python and Linux.
 - ❤️ Technology, Music and Brasilian culture.
 -  How to reach me:
   📫 hbisetto@yahoo.com.br
